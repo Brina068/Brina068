@@ -2,5 +2,5 @@
 
 - 🔭 I'm currently studying Data Science
 - 📫 sasf068@gmail.com
-- ⚡ Fun fact: I'm also learning german 🇩🇪
+- ⚡ Languages: portuguese 🇧🇷, english - b2 🇬🇧, german - b1 🇩🇪
 
